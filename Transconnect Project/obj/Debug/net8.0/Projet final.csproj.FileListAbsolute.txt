@@ -1,0 +1,29 @@
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.exe
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.deps.json
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.runtimeconfig.json
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.dll
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.pdb
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.AssemblyInfoInputs.cache
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.AssemblyInfo.cs
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.csproj.CoreCompileInputs.cache
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.dll
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\obj\Debug\net8.0\refint\Projet final.dll
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.pdb
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.genruntimeconfig.cache
+C:\Users\delah\Desktop\C#_A3\Projet final c# S6\Projet final\Projet final\obj\Debug\net8.0\ref\Projet final.dll
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.exe
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.deps.json
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.runtimeconfig.json
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.dll
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\bin\Debug\net8.0\Projet final.pdb
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.AssemblyInfoInputs.cache
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.AssemblyInfo.cs
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.csproj.CoreCompileInputs.cache
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.sourcelink.json
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.dll
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\refint\Projet final.dll
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.pdb
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\Projet final.genruntimeconfig.cache
+C:\Users\delah\Documents\GitHub\Tom-dlhy\Projet-Final-S6\Projet final\Projet final\obj\Debug\net8.0\ref\Projet final.dll
